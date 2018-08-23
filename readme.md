@@ -1,9 +1,3 @@
-//Author: Tori Lawrence
-//Date: 2018/8/23
- 
- 
- 
- 
 #include<stdlib.h>
 #include<stdio.h>
 
